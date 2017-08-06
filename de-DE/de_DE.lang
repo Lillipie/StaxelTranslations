@@ -21,53 +21,53 @@ catalogue.total=Summe
 //[Reference] 'success'
 commands.tripod.success=Erfolg
 //TODO Translate [Reference] 'Break'
-controlHint.verb.break=
+controlHint.verb.break=brechen
 //TODO Translate [Reference] 'Calm'
-controlHint.verb.calm=
+controlHint.verb.calm=beruhigen
 //TODO Translate [Reference] 'Cast'
-controlHint.verb.cast=
+controlHint.verb.cast=gießen
 //TODO Translate [Reference] 'Catch'
-controlHint.verb.catch=
+controlHint.verb.catch=fangen
 //TODO Translate [Reference] 'Check'
-controlHint.verb.check=
+controlHint.verb.check=überprüfen
 //TODO Translate [Reference] 'Chop'
-controlHint.verb.chop=
+controlHint.verb.chop=schneiden
 //TODO Translate [Reference] 'Command'
-controlHint.verb.command=
+controlHint.verb.command=befehlen
 //TODO Translate [Reference] 'Cancel'
-controlHint.verb.default.cancel=
+controlHint.verb.default.cancel=abbrechen
 //TODO Translate [Reference] 'Place'
-controlHint.verb.default.dock=
+controlHint.verb.default.dock=platzieren
 //TODO Translate [Reference] 'Harvest'
-controlHint.verb.default.harvest=
+controlHint.verb.default.harvest=Ernte
 //TODO Translate [Reference] 'Interact'
-controlHint.verb.default.interact=
+controlHint.verb.default.interact=interagieren
 //TODO Translate [Reference] 'Rotate'
-controlHint.verb.default.rotate=
+controlHint.verb.default.rotate=drehe
 //TODO Translate [Reference] 'Throw'
-controlHint.verb.default.throw=
+controlHint.verb.default.throw=werfen
 //TODO Translate [Reference] 'Pick Up'
-controlHint.verb.default.undock=
+controlHint.verb.default.undock=aufheben
 //TODO Translate [Reference] 'Use'
-controlHint.verb.default.use=
+controlHint.verb.default.use=benutzen
 //TODO Translate [Reference] 'Dig'
-controlHint.verb.dig=
+controlHint.verb.dig=graben
 //TODO Translate [Reference] 'Inspect'
-controlHint.verb.inspect=
+controlHint.verb.inspect=ansehen
 //TODO Translate [Reference] 'Milk'
-controlHint.verb.milk=
+controlHint.verb.milk=Milch
 //TODO Translate [Reference] 'Plant'
-controlHint.verb.plant=
+controlHint.verb.plant=Pflanze
 //TODO Translate [Reference] 'Reap'
-controlHint.verb.reap=
+controlHint.verb.reap=ernten
 //TODO Translate [Reference] 'Shear'
-controlHint.verb.shear=
+controlHint.verb.shear=scheren
 //TODO Translate [Reference] 'Sweep'
-controlHint.verb.sweep=
+controlHint.verb.sweep=fegen
 //TODO Translate [Reference] 'Till'
-controlHint.verb.till=
+controlHint.verb.till=beackern
 //TODO Translate [Reference] 'Water'
-controlHint.verb.water=
+controlHint.verb.water=Wasser
 
 //[Reference] 'Item Hotkeys'
 controllerHints.hotkeys=Item-Schnelltasten
@@ -86,7 +86,7 @@ crafting.action.keyword.bake=Backe
 //[Reference] 'Boil'
 crafting.action.keyword.boil=Koche
 //TODO Translate [Reference] 'Carve'
-crafting.action.keyword.carve=
+crafting.action.keyword.carve=Schnitze
 //[Reference] 'Combine'
 crafting.action.keyword.combine=Kombiniere
 //[Reference] 'Cut'
@@ -96,11 +96,11 @@ crafting.action.keyword.fry=Brate
 //[Reference] 'Mix'
 crafting.action.keyword.mix=Mische
 //TODO Translate [Reference] 'Reap'
-crafting.action.keyword.reap=
+crafting.action.keyword.reap=gieße
 //TODO Translate [Reference] 'Saw'
-crafting.action.keyword.saw=
+crafting.action.keyword.saw=säge
 //TODO Translate [Reference] 'Tile'
-crafting.action.keyword.tile=
+crafting.action.keyword.tile=kachel
 //[Reference] '{0-itemOne}, {1-itemTwo}'
 crafting.action.task.listedItems={0-itemOne}, {1-itemTwo}
 //[Reference] '{0-keyword} {1-listedItems} and {2-lastListedItem}'
@@ -112,7 +112,7 @@ crafting.action.task.oneItem={0-keyword} {1-item}
 //[Reference] 'That wasn't a recipe, Oops!'
 crafting.notifications.failedCraft=Ups, das war kein Rezept!
 //TODO Translate [Reference] 'You can't make anything with these items...'
-crafting.notifications.notACraft=
+crafting.notifications.notACraft=Du kannst nichts mit diesen Items tun…
 //[Reference] 'You completed the recipe for {0-item}!'
 crafting.recipeComplete=Du hast das Rezept für {0-item} vollendet!
 
@@ -121,7 +121,7 @@ credits.13lueWolf.description=Er ist der Entwickler der Benutzeroberfläche, er 
 //[Reference] 'He helped out a bunch with the programming of the game.'
 credits.amos.description=Er hat beim Programmieren des Spiels mitgeholfen.
 //[Reference] 'Back to main menu'
-credits.back=Zurück
+credits.back=Zurück zum Hauptmenü
 //[Reference] 'He is the lead developer, responsible for the coding and general awesomeness behind the game. He streams often so feel free to join him on twitch and ask some questions! Yep, he used to work on Starbound.'
 credits.bartwe.description=Er ist der Hauptentwickler, zuständig für das Programmieren und das großartige Spiel an sich. Er streamt oft auf Twitch, komm also ruhig vorbei und stell deine Fragen! Ja, er hat an Starbound gearbeitet.
 //[Reference] 'She was always on hand to help out with additional coding and bug fixes.'
